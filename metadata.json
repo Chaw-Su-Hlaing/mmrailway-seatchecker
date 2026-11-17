@@ -1,0 +1,6 @@
+{
+  "name": "MR RailCheck AI",
+  "description": "Automated AI assistant for checking Myanmar Railways (ORTP) routes, train schedules, and seat class availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
